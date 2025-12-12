@@ -1,0 +1,3 @@
+This is a test text file for encryption demonstration.
+It contains multiple lines and various characters: !@#$%^&*()_+
+Этот файл также содержит текст на русском языке для тестирования.
